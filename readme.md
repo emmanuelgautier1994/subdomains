@@ -1,0 +1,1 @@
+Code d'exemple pour parser la liste de sous-domaines de https://gist.github.com/bzg/08e7a8651533057e278a10a580a7a1e0 et les ranger dans une structure en arbre.
